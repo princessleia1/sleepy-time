@@ -1,8 +1,8 @@
 # Sleepy-Time
-**Sleepy-Time** is a Fitbit Ionic and Versa App for Fitbit OS for monitoring your sleeping habits. This app uses the new [Fitbit SDK 4.0](https://github.com/Fitbit).
+**Sleepy-Time** is a Fitbit Ionic and Versa App for Fitbit OS for monitoring your sleeping habits. **Sleepy-Time** uses the new [Fitbit SDK 4.0](https://github.com/Fitbit).
 
 ## Sleep Logs
-**Sleepy-Time** gets data from Fitbit OS Get Sleep Logs by Date endpoint. It returns a summary and list of a user's sleep log entries (including naps) as well as detailed sleep entry data for a given day.
+**Sleepy-Time** gets data from the Fitbit OS Get Sleep Logs by Date endpoint. It returns a summary and list of a user's sleep log entries (including naps) as well as detailed sleep entry data for a given day.
 
 * Date of sleep
 * Duration of Sleep
@@ -13,6 +13,7 @@
 **Sleepy-Time** supports  both  Levels **Stages** or **Classic**:
 
 **Stages:** Level data is returned with 30-second granularity. 'Sleep Stages' levels include deep, light, rem, and wake.
+
 **Classic:** Level data returned with 60-second granularity. 'Sleep Pattern' levels include asleep, restless, and awake.
 
 ## Devices
