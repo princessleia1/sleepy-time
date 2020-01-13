@@ -12,9 +12,6 @@
 ## Sleep Data
 **Sleepy-Time** uses **Stages** Level. Data is returned with 30-second granularity. **'Sleep Stages'** levels include *deep*, *light*, *rem*, and *wake*.
 
-## Sleep Goal
-**Sleepy-Time** uses the Sleep Goals endpoint that returns a user's current sleep goal using unit in the unit system that corresponds to the Accept-Language header provided in the format requested.
-
 ## Devices
 **Sleepy-Time** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa 2 (300x300), and Versa Lite (300x300).
 
